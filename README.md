@@ -1,29 +1,29 @@
 # coderbyte-python-javascript
 
-Never fail a Coderbyte interview again! This repository contains JavaScript and Python solutions for coding challenges from coderbyte.com, along with unit tests and a handy script to generate new challenge templates.
+Never fail a Coderbyte interview again! This repository offers comprehensive JavaScript and Python solutions to coding challenges from coderbyte.com. It includes unit tests and a script to scaffold new challenge templates efficiently.
 
 ---
 
 ## Features
 
-- Comprehensive solutions to Coderbyte challenges in JavaScript and Python.
-- Unit tests using Jest for JavaScript and pytest for Python.
-- `generate.js` script to quickly scaffold new problem files and tests.
-- Organized by difficulty levels: easy, medium, and hard.
+- Solutions to Coderbyte challenges in both JavaScript and Python.
+- Unit tests implemented with Jest for JavaScript and pytest for Python.
+- `generate.js` script to quickly create new problem and test file templates.
+- Challenges organized by difficulty levels: easy, medium, and hard.
 
 ## Tech Stack
 
 - **Languages:** JavaScript (primary), Python
 - **Testing:** Jest (JavaScript), pytest (Python)
-- **Node.js** for running scripts and tests
+- **Runtime:** Node.js for running scripts and tests
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js (for JavaScript solutions and tests)
+- Node.js (for JavaScript environment)
 - npm (comes with Node.js)
-- Python 3 (for Python solutions and tests)
+- Python 3
 - pip3 (Python package manager)
 
 ### Installation
@@ -98,47 +98,16 @@ coderbyte-python-javascript/
 ```
 
 - **easy, medium, hard**: Folders containing challenge solutions organized by difficulty.
-- **generate.js**: Node.js script to generate blank JavaScript challenge and test files with boilerplate code.
-- **package.json**: Defines project metadata and dependencies.
-
-## Using `generate.js`
-
-This script helps scaffold new challenge files with boilerplate code.
-
-Example usage:
-
-```bash
-node generate.js easy/ab_check
-```
-
-This will create:
-
-```
-easy/ab_check.js
- easy/ab_check.test.js
-```
-
-You can also run it from inside a difficulty folder:
-
-```bash
-cd easy
-node ../generate.js ab_check
-```
+- **generate.js**: Node.js script to scaffold new challenge files and tests.
 
 ## Future Work / Roadmap
 
-- Complete the Python solutions for all challenges.
-- Add more detailed documentation and comments for each challenge solution.
-- Integrate continuous integration (CI) for automated testing.
-- Add support for other languages and more challenge categories.
+- Add more Python solutions and corresponding unit tests to balance language support.
 - Enhance `generate.js` to support Python template generation.
+- Integrate continuous integration workflows for automated testing.
+- Expand documentation with usage examples and coding standards.
+- Add performance benchmarks for select algorithms.
 
 ---
 
-Thank you to [Bradley Hanson](https://github.com/bradhanson) for the original JavaScript work that inspired this project.
-
----
-
-## License
-
-This repository is licensed under ISC License.
+This repository is designed to be a practical resource for preparing coding interviews on coderbyte.com with ready-to-run solutions and tests in two popular languages.
