@@ -1,14 +1,14 @@
 ---
 slug: github-coderbyte-python-javascript
 id: github-coderbyte-python-javascript
-title: Coderbyte Solutions in Python and JavaScript Repository
+title: JavaScript and Python Solutions for Coderbyte Challenges
 repo: justin-napolitano/coderbyte-python-javascript
 githubUrl: https://github.com/justin-napolitano/coderbyte-python-javascript
 generatedAt: '2025-11-24T21:34:14.778Z'
 source: github-auto
 summary: >-
-  Explore a repository with JavaScript and Python solutions for Coderbyte
-  challenges, complete with unit tests and scaffolding scripts.
+  This repository provides JavaScript and Python solutions to Coderbyte
+  challenges, complete with unit tests and a script for generating templates.
 tags:
   - javascript
   - python
@@ -17,13 +17,14 @@ tags:
   - node.js
   - coderbyte
   - unit testing
-seoPrimaryKeyword: coderbyte python javascript solutions
+  - coding challenges
+seoPrimaryKeyword: coderbyte coding challenge solutions
 seoSecondaryKeywords:
-  - coderbyte interview preparation
   - javascript unit tests
   - python unit tests
+  - coderbyte interview prep
   - generate.js script
-  - coding challenge solutions
+  - node.js testing
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
