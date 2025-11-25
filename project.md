@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/coderbyte-python-javascript
 generatedAt: '2025-11-24T21:34:14.778Z'
 source: github-auto
 summary: >-
-  This repository provides JavaScript and Python solutions to Coderbyte
-  challenges, complete with unit tests and a script for generating templates.
+  This repository provides JavaScript and Python solutions to Coderbyte challenges, complete with
+  unit tests and a script for generating templates.
 tags:
   - javascript
   - python
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - generate.js script
   - node.js testing
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -147,3 +147,4 @@ coderbyte-python-javascript/
 ---
 
 This repository is designed to be a practical resource for preparing coding interviews on coderbyte.com with ready-to-run solutions and tests in two popular languages.
+
